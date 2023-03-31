@@ -1,0 +1,31 @@
+body {
+    background-color: #FBFFB1;
+}
+.btnback {
+    margin-left: 500px;
+    background-color: cadetblue;
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 50px;
+    border: none;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+.btnback:hover {
+    background-color: aqua;
+    transition-duration: 3s;
+}
+.btnlink {
+    margin-top: 20px;
+    margin-left: 20px;
+    background-color: #FFFFE8;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 30px;
+    cursor: pointer;
+    text-transform: inherit;
+}
+.btnlink:hover {
+background-color: #CDE990;
+transition-duration: 3s;
+}

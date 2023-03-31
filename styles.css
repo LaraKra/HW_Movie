@@ -1,0 +1,20 @@
+body {
+    background-color: #F3CCFF;
+}
+h1 {
+    color: #E11299;
+    font-size: 50px;
+    margin-left: 30px;
+}
+ul {
+    color: #A555EC;
+    font-size: 20px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+img {
+    margin-left: 80px;
+}
+li {
+    margin-top: 20px;
+}
